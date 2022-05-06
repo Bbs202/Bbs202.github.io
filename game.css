@@ -50,6 +50,7 @@
 
 .hud-main-text{
     text-align: center;
+    margin-top: 12px;
     font-size: 4rem;
 }
 #progressBar{
