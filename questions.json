@@ -1,0 +1,28 @@
+[
+{
+    "question" : "What is the color of apple?",
+    "choice1" : "green",
+    "choice2" : "brown",
+    "choice3" : "black",
+    "choice4" : "blue",
+    "answer" : 1
+    },
+
+    {
+        "question" : "What is the color of banana",
+        "choice1" : "brown",
+        "choice2" : "black",
+        "choice3" : "yellow",
+        "choice4" : "purple",
+        "answer" : 3
+
+    },
+    {
+        "question" : "What is the color of water",
+        "choice1" : "pink",
+        "choice2" : "green",
+        "choice3" : "purple",
+        "choice4" : "white",
+        "answer" : 4
+    }
+]
